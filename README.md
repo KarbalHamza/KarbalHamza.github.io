@@ -1,6 +1,6 @@
 # KARBAL Hamza - Portfolio Website
 
-This is a personal portfolio website of Aditya Kumar Srivastava built with React to showcase my experience, projects, skills, and certifications.
+This is a personal portfolio website of KARBAL Hamza built with React to showcase my experience, projects, skills, and certifications.
 
 ## Features
 
